@@ -1,2 +1,0 @@
-# rocky
-Rocky Linux Sample
